@@ -1,0 +1,30 @@
+{
+  "inbound":{
+	  "port":65530,
+	  "protocol":"vmess",
+	  "settings":{
+	    "clients":[
+	    {
+	      "id":"d6eea32b-7a7b-439e-864e-66b7adb5b329",
+	      "alterId":64
+	    
+	    },
+	    {
+	      "id":"51258428-cc58-47c9-bc03-050d54b25c76",
+	      "alterId":64
+	    },
+	    {
+	      "id":"fb2c83b9-99ed-431c-aa16-caaab12d7485",
+	      "alterId":64
+
+	    }
+	   ]
+	  }
+  
+  },
+  "outbound":{
+    "protocol":"freedom",
+    "settings":{}
+ 
+  }
+}
